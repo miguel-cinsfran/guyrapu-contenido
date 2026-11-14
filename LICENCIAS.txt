@@ -1,0 +1,167 @@
+Phonon inglés (phonon-en)
+  Origen: Gradium, gradium/phonon-31m-en
+  Licencia: Apache 2.0
+  Más información: https://huggingface.co/gradium/phonon-31m-en
+  Repositorio: https://huggingface.co/gradium/phonon-31m-en
+  Revisión: 92741c5b07d085ff840e26fea8ce43110b87852f
+
+Phonon español (phonon-es)
+  Origen: Gradium, gradium/phonon-40m-es
+  Licencia: CC BY-NC 4.0
+  Más información: https://huggingface.co/gradium/phonon-40m-es
+  Repositorio: https://huggingface.co/gradium/phonon-40m-es
+  Revisión: e5e052b26e31abd5918ade71d3135e69d51a66f8
+
+Phonon portugués (phonon-pt)
+  Origen: Gradium, gradium/phonon-40m-pt
+  Licencia: CC BY-NC 4.0
+  Más información: https://huggingface.co/gradium/phonon-40m-pt
+  Repositorio: https://huggingface.co/gradium/phonon-40m-pt
+  Revisión: 4cbfd742a1555d60eb5399c6d296e9f2e07389e9
+
+Piper Alba (piper-en-gb-alba-medium)
+  Origen: Piper, rhasspy/piper-voices, en_GB-alba-medium
+  Licencia: https://creativecommons.org/licenses/by/4.0/
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/alba/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Cori (piper-en-gb-cori-high)
+  Origen: Piper, rhasspy/piper-voices, en_GB-cori-high
+  Licencia: public domain
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/cori/high/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Jenny (Dioco) (piper-en-gb-jenny-dioco-medium)
+  Origen: Piper, rhasspy/piper-voices, en_GB-jenny_dioco-medium
+  Licencia: Licencia propia de Dioco: uso comercial permitido, citando la voz como Jenny (Dioco)
+  Más información: https://github.com/dioco-group/jenny-tts-dataset
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Bryce (piper-en-us-bryce-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-bryce-medium
+  Licencia: public domain
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/bryce/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Hifi Tts 92 (piper-en-us-hifi-tts-92-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-hifi_tts_92-medium
+  Licencia: CC BY 4.0 (Hi-Fi Multi-Speaker English TTS Dataset, NVIDIA Corporation)
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hifi_tts_92/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Joe (piper-en-us-joe-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-joe-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/joe/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper John (piper-en-us-john-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-john-medium
+  Licencia: public domain
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/john/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Kathleen (piper-en-us-kathleen-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-kathleen-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/kathleen/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Kristin (piper-en-us-kristin-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-kristin-medium
+  Licencia: public domain
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/kristin/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Libritts (piper-en-us-libritts-high)
+  Origen: Piper, rhasspy/piper-voices, en_US-libritts-high
+  Licencia: CC BY 4.0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/libritts/high/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Ljspeech (piper-en-us-ljspeech-high)
+  Origen: Piper, rhasspy/piper-voices, en_US-ljspeech-high
+  Licencia: public domain
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/ljspeech/high/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Mike (piper-en-us-mike-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-mike-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/mike/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Norman (piper-en-us-norman-medium)
+  Origen: Piper, rhasspy/piper-voices, en_US-norman-medium
+  Licencia: public domain
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/norman/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Carlfm (piper-es-es-carlfm-x-low)
+  Origen: Piper, rhasspy/piper-voices, es_ES-carlfm-x_low
+  Licencia: Public domain
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/carlfm/x_low/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Davefx (piper-es-es-davefx-medium)
+  Origen: Piper, rhasspy/piper-voices, es_ES-davefx-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/davefx/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Sharvard (piper-es-es-sharvard-medium)
+  Origen: Piper, rhasspy/piper-voices, es_ES-sharvard-medium
+  Licencia: http://creativecommons.org/licenses/by/3.0/
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/sharvard/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Ald (piper-es-mx-ald-medium)
+  Origen: Piper, rhasspy/piper-voices, es_MX-ald-medium
+  Licencia: http://unlicense.org
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_MX/ald/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Cadu (piper-pt-br-cadu-medium)
+  Origen: Piper, rhasspy/piper-voices, pt_BR-cadu-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/cadu/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Faber (piper-pt-br-faber-medium)
+  Origen: Piper, rhasspy/piper-voices, pt_BR-faber-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/faber/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Jeff (piper-pt-br-jeff-medium)
+  Origen: Piper, rhasspy/piper-voices, pt_BR-jeff-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/jeff/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
+
+Piper Tugão (piper-pt-pt-tug-o-medium)
+  Origen: Piper, rhasspy/piper-voices, pt_PT-tugão-medium
+  Licencia: CC0
+  Más información: https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_PT/tugão/medium/MODEL_CARD
+  Repositorio: https://huggingface.co/rhasspy/piper-voices
+  Revisión: 6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3
