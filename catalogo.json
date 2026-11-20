@@ -8,7 +8,7 @@
       "nombre": "Phonon inglés",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "Apache 2.0",
       "licencia_url": "https://huggingface.co/gradium/phonon-31m-en",
       "origen": "Gradium, gradium/phonon-31m-en",
@@ -17,259 +17,334 @@
           "nombre": "Zoey",
           "idioma": "en-US",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/1_zoey_NbpkqMVS3CJeq2j8/exclamation_02.ogg",
-          "archivo": "voices/NbpkqMVS3CJeq2j8.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/98m/en/en-us/female/1_zoey_NbpkqMVS3CJeq2j8/support_04.ogg",
+          "archivo": "voices/NbpkqMVS3CJeq2j8.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Juniper",
           "idioma": "en-US",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/2_juniper_NIWIOv5vTi5eRMj8/exclamation_02.ogg",
-          "archivo": "voices/NIWIOv5vTi5eRMj8.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-us/female/2_juniper_NIWIOv5vTi5eRMj8/support_04.ogg",
+          "archivo": "voices/NIWIOv5vTi5eRMj8.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Everly",
           "idioma": "en-US",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/3_everly_vjFyp2BcCyTlUmYb/exclamation_02.ogg",
-          "archivo": "voices/vjFyp2BcCyTlUmYb.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-us/female/3_everly_vjFyp2BcCyTlUmYb/support_04.ogg",
+          "archivo": "voices/vjFyp2BcCyTlUmYb.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Harper",
           "idioma": "en-US",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/4_harper_4SZHfMpw-p46Ywgs/exclamation_02.ogg",
-          "archivo": "voices/4SZHfMpw-p46Ywgs.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/4_harper_4SZHfMpw-p46Ywgs/support_04.ogg",
+          "archivo": "voices/4SZHfMpw-p46Ywgs.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Hadley",
           "idioma": "en-US",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/5_hadley_bXwrkHhURL1VFJdG/exclamation_02.ogg",
-          "archivo": "voices/bXwrkHhURL1VFJdG.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-us/female/5_hadley_bXwrkHhURL1VFJdG/support_04.ogg",
+          "archivo": "voices/bXwrkHhURL1VFJdG.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Delia",
           "idioma": "en-US",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/6_delia_nGzMHMPAWGaJFHOo/exclamation_02.ogg",
-          "archivo": "voices/nGzMHMPAWGaJFHOo.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/female/6_delia_nGzMHMPAWGaJFHOo/support_04.ogg",
+          "archivo": "voices/nGzMHMPAWGaJFHOo.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Easton",
           "idioma": "en-US",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/1_easton_LMDIYE0Oa377Qh6Z/exclamation_02.ogg",
-          "archivo": "voices/LMDIYE0Oa377Qh6Z.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-us/male/1_easton_LMDIYE0Oa377Qh6Z/support_04.ogg",
+          "archivo": "voices/LMDIYE0Oa377Qh6Z.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Micah",
           "idioma": "en-US",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/2_micah_40QrMVgAxFiUnP9f/exclamation_02.ogg",
-          "archivo": "voices/40QrMVgAxFiUnP9f.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/2_micah_40QrMVgAxFiUnP9f/support_04.ogg",
+          "archivo": "voices/40QrMVgAxFiUnP9f.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Trevor",
           "idioma": "en-US",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/3_trevor_0zLApsZfVLLNaEGl/exclamation_02.ogg",
-          "archivo": "voices/0zLApsZfVLLNaEGl.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/3_trevor_0zLApsZfVLLNaEGl/support_04.ogg",
+          "archivo": "voices/0zLApsZfVLLNaEGl.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Russell",
           "idioma": "en-US",
           "genero": "male",
           "muestra": null,
-          "archivo": "voices/_6Aslh2DxfmnRLmP.safetensors"
+          "archivo": "voices/_6Aslh2DxfmnRLmP.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Preston",
           "idioma": "en-US",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/5_preston_qIxlZ7Ei8KvWlyQH/exclamation_02.ogg",
-          "archivo": "voices/qIxlZ7Ei8KvWlyQH.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-us/male/5_preston_qIxlZ7Ei8KvWlyQH/support_04.ogg",
+          "archivo": "voices/qIxlZ7Ei8KvWlyQH.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Miles",
           "idioma": "en-US",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/6_miles_d9XCyhjo4JhkHF1d/exclamation_02.ogg",
-          "archivo": "voices/d9XCyhjo4JhkHF1d.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-us/male/6_miles_d9XCyhjo4JhkHF1d/support_04.ogg",
+          "archivo": "voices/d9XCyhjo4JhkHF1d.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Maeve",
           "idioma": "en-GB",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/1_maeve_6PWnV0Nq4wu7RVBT/exclamation_02.ogg",
-          "archivo": "voices/6PWnV0Nq4wu7RVBT.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/1_maeve_6PWnV0Nq4wu7RVBT/support_04.ogg",
+          "archivo": "voices/6PWnV0Nq4wu7RVBT.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Freya",
           "idioma": "en-GB",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/2_freya_GgfEkEJtxZR7gnpy/exclamation_02.ogg",
-          "archivo": "voices/GgfEkEJtxZR7gnpy.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/2_freya_GgfEkEJtxZR7gnpy/support_04.ogg",
+          "archivo": "voices/GgfEkEJtxZR7gnpy.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Pippa",
           "idioma": "en-GB",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/3_pippa_uem82D50GRv2Dwma/exclamation_02.ogg",
-          "archivo": "voices/uem82D50GRv2Dwma.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/female/3_pippa_uem82D50GRv2Dwma/support_04.ogg",
+          "archivo": "voices/uem82D50GRv2Dwma.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Elodie-Rose",
           "idioma": "en-GB",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/4_elodie_rose_y9bQqIDnyxwqK01t/exclamation_02.ogg",
-          "archivo": "voices/y9bQqIDnyxwqK01t.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/4_elodie_rose_y9bQqIDnyxwqK01t/support_04.ogg",
+          "archivo": "voices/y9bQqIDnyxwqK01t.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Imogen",
           "idioma": "en-GB",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/5_imogen_gDT1nz7Ie36ZhL-C/exclamation_02.ogg",
-          "archivo": "voices/gDT1nz7Ie36ZhL-C.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/female/5_imogen_gDT1nz7Ie36ZhL-C/support_04.ogg",
+          "archivo": "voices/gDT1nz7Ie36ZhL-C.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Lottie",
           "idioma": "en-GB",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/6_lottie_m9MxpY6IUGXtWp76/exclamation_02.ogg",
-          "archivo": "voices/m9MxpY6IUGXtWp76.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/female/6_lottie_m9MxpY6IUGXtWp76/support_04.ogg",
+          "archivo": "voices/m9MxpY6IUGXtWp76.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Alfie",
           "idioma": "en-GB",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/male/1_alfie_X6NceqF285Gr04gb/exclamation_02.ogg",
-          "archivo": "voices/X6NceqF285Gr04gb.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/male/1_alfie_X6NceqF285Gr04gb/support_04.ogg",
+          "archivo": "voices/X6NceqF285Gr04gb.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Hugh",
           "idioma": "en-GB",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/male/2_hugh_YyKcxPG7iIgS3jsK/exclamation_02.ogg",
-          "archivo": "voices/YyKcxPG7iIgS3jsK.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/male/2_hugh_YyKcxPG7iIgS3jsK/support_04.ogg",
+          "archivo": "voices/YyKcxPG7iIgS3jsK.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Edwin",
           "idioma": "en-GB",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/male/3_edwin_zUCxzrOrugTSis03/exclamation_02.ogg",
-          "archivo": "voices/zUCxzrOrugTSis03.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/male/3_edwin_zUCxzrOrugTSis03/support_04.ogg",
+          "archivo": "voices/zUCxzrOrugTSis03.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Spencer",
           "idioma": "en-GB",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/male/4_spencer_JOW0vchyswkQUMDS/exclamation_02.ogg",
-          "archivo": "voices/JOW0vchyswkQUMDS.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/56m/en/en-gb/male/4_spencer_JOW0vchyswkQUMDS/support_04.ogg",
+          "archivo": "voices/JOW0vchyswkQUMDS.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Toby",
           "idioma": "en-GB",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/male/5_toby_dME3IWyZBvmh1n1q/exclamation_02.ogg",
-          "archivo": "voices/dME3IWyZBvmh1n1q.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/male/5_toby_dME3IWyZBvmh1n1q/support_04.ogg",
+          "archivo": "voices/dME3IWyZBvmh1n1q.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Teddy",
           "idioma": "en-GB",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/male/6_teddy_Zn7g6NxLqXlJb7Qi/exclamation_02.ogg",
-          "archivo": "voices/Zn7g6NxLqXlJb7Qi.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/male/6_teddy_Zn7g6NxLqXlJb7Qi/support_04.ogg",
+          "archivo": "voices/Zn7g6NxLqXlJb7Qi.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Bryony",
           "idioma": "en-GB",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/en-gb/female/7_bryony_gfP44RlHwr2kEwk7/exclamation_02.ogg",
-          "archivo": "voices/gfP44RlHwr2kEwk7.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/en-gb/female/7_bryony_gfP44RlHwr2kEwk7/support_04.ogg",
+          "archivo": "voices/gfP44RlHwr2kEwk7.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Captain Silas Blackwater",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/captain_silas_blackwater_xPDpsV3F592srkjA/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/characters/captain_silas_blackwater_xPDpsV3F592srkjA/line_1.ogg",
           "archivo": "voices/xPDpsV3F592srkjA.safetensors"
         },
         {
           "nombre": "Morwenna of the Deep",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/morwenna_of_the_deep_nOykTmcH9ydsGGIc/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/98m/en/characters/morwenna_of_the_deep_nOykTmcH9ydsGGIc/line_1.ogg",
           "archivo": "voices/nOykTmcH9ydsGGIc.safetensors"
         },
         {
           "nombre": "Old Mortlake",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/old_mortlake_lX3LavMNdlIbgEHH/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/56m/en/characters/old_mortlake_lX3LavMNdlIbgEHH/line_1.ogg",
           "archivo": "voices/lX3LavMNdlIbgEHH.safetensors"
         },
         {
           "nombre": "Azgorath",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/azgorath_dGyGDKo2osj7h3s7/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/characters/azgorath_dGyGDKo2osj7h3s7/line_1.ogg",
           "archivo": "voices/dGyGDKo2osj7h3s7.safetensors"
         },
         {
           "nombre": "Fennick the Young Elf",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/fennick_the_young_elf_cXoIXJ2llS8S0WOW/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/characters/fennick_the_young_elf_cXoIXJ2llS8S0WOW/line_1.ogg",
           "archivo": "voices/cXoIXJ2llS8S0WOW.safetensors"
         },
         {
           "nombre": "The Thing Under the Stairs",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/the_thing_under_the_stairs_GXaSqMEmOg12OIYb/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/characters/the_thing_under_the_stairs_GXaSqMEmOg12OIYb/line_1.ogg",
           "archivo": "voices/GXaSqMEmOg12OIYb.safetensors"
         },
         {
           "nombre": "Vyrmathrax the Ancient",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/vyrmathrax_the_ancient_xO8xQo3BrB8FuI6J/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/vyrmathrax_the_ancient_xO8xQo3BrB8FuI6J/line_1.ogg",
           "archivo": "voices/xO8xQo3BrB8FuI6J.safetensors"
         },
         {
           "nombre": "Grub the Ogre",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/grub_the_ogre_cYtsRSxV5q9IMehn/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/characters/grub_the_ogre_cYtsRSxV5q9IMehn/line_1.ogg",
           "archivo": "voices/cYtsRSxV5q9IMehn.safetensors"
         },
         {
           "nombre": "Master Aldric",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/master_aldric_gSgG5Tor0GPEnqzC/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/master_aldric_gSgG5Tor0GPEnqzC/line_1.ogg",
           "archivo": "voices/gSgG5Tor0GPEnqzC.safetensors"
         },
         {
           "nombre": "The Snow Queen",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/the_snow_queen_NIWoEurJHMJjyUTe/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/the_snow_queen_NIWoEurJHMJjyUTe/line_2.ogg",
           "archivo": "voices/NIWoEurJHMJjyUTe.safetensors"
         },
         {
           "nombre": "Sir Bramwell",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/sir_bramwell_y2eiKxtQo2B67deU/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/en/characters/sir_bramwell_y2eiKxtQo2B67deU/line_1.ogg",
           "archivo": "voices/y2eiKxtQo2B67deU.safetensors"
         },
         {
           "nombre": "Fairy Godmother",
           "idioma": "en",
           "genero": null,
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/en/characters/fairy_godmother_QXNr0SvkukLB4wPq/exclamation_02.ogg",
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/98m/en/characters/fairy_godmother_QXNr0SvkukLB4wPq/line_1.ogg",
           "archivo": "voices/QXNr0SvkukLB4wPq.safetensors"
         }
       ],
@@ -529,7 +604,7 @@
       "nombre": "Phonon español",
       "idioma": "es-ES",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC BY-NC 4.0",
       "licencia_url": "https://huggingface.co/gradium/phonon-40m-es",
       "origen": "Gradium, gradium/phonon-40m-es",
@@ -538,176 +613,251 @@
           "nombre": "Noa",
           "idioma": "es-ES",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/1_noa_b6FvJAiokjdqIti4/exclamation_02.ogg",
-          "archivo": "voices/b6FvJAiokjdqIti4.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/1_noa_b6FvJAiokjdqIti4/support_04.ogg",
+          "archivo": "voices/b6FvJAiokjdqIti4.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Lucía-Sol",
           "idioma": "es-ES",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/2_lucia_sol_3p0eIGbkmny71GlA/exclamation_02.ogg",
-          "archivo": "voices/3p0eIGbkmny71GlA.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/2_lucia_sol_3p0eIGbkmny71GlA/support_04.ogg",
+          "archivo": "voices/3p0eIGbkmny71GlA.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Candela",
           "idioma": "es-ES",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/3_candela_c9wqBDmQiBie5q6Y/exclamation_02.ogg",
-          "archivo": "voices/c9wqBDmQiBie5q6Y.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/3_candela_c9wqBDmQiBie5q6Y/support_04.ogg",
+          "archivo": "voices/c9wqBDmQiBie5q6Y.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Celia",
           "idioma": "es-ES",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/4_celia_rmLBOdHrfkFym9MM/exclamation_02.ogg",
-          "archivo": "voices/rmLBOdHrfkFym9MM.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/4_celia_rmLBOdHrfkFym9MM/support_04.ogg",
+          "archivo": "voices/rmLBOdHrfkFym9MM.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Alba",
           "idioma": "es-ES",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/5_alba_u2UscyAnHilpiwmf/exclamation_02.ogg",
-          "archivo": "voices/u2UscyAnHilpiwmf.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/5_alba_u2UscyAnHilpiwmf/support_04.ogg",
+          "archivo": "voices/u2UscyAnHilpiwmf.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Alicia",
           "idioma": "es-ES",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/6_alicia_4701YgRXjkBcg6sL/exclamation_02.ogg",
-          "archivo": "voices/4701YgRXjkBcg6sL.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/6_alicia_4701YgRXjkBcg6sL/support_04.ogg",
+          "archivo": "voices/4701YgRXjkBcg6sL.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Marcos",
           "idioma": "es-ES",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/1_marcos_jvPx8j8zLGQ3utZz/exclamation_02.ogg",
-          "archivo": "voices/jvPx8j8zLGQ3utZz.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/1_marcos_jvPx8j8zLGQ3utZz/support_04.ogg",
+          "archivo": "voices/jvPx8j8zLGQ3utZz.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Borja",
           "idioma": "es-ES",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/2_borja_tIjCgP8v3RY8UpgM/exclamation_02.ogg",
-          "archivo": "voices/tIjCgP8v3RY8UpgM.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/2_borja_tIjCgP8v3RY8UpgM/support_04.ogg",
+          "archivo": "voices/tIjCgP8v3RY8UpgM.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Iker",
           "idioma": "es-ES",
           "genero": "male",
           "muestra": null,
-          "archivo": "voices/t-_TS1e-0GzDAX02.safetensors"
+          "archivo": "voices/t-_TS1e-0GzDAX02.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Nuno",
           "idioma": "es-ES",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/4_nuno_fghJGlv90qu8OJ36/exclamation_02.ogg",
-          "archivo": "voices/fghJGlv90qu8OJ36.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/4_nuno_fghJGlv90qu8OJ36/support_04.ogg",
+          "archivo": "voices/fghJGlv90qu8OJ36.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Izan",
           "idioma": "es-ES",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/5_izan_Ejb29qHnSOK0cIHY/exclamation_02.ogg",
-          "archivo": "voices/Ejb29qHnSOK0cIHY.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/56m/es/es-es/male/5_izan_Ejb29qHnSOK0cIHY/support_04.ogg",
+          "archivo": "voices/Ejb29qHnSOK0cIHY.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Guillermo",
           "idioma": "es-ES",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/6_guillermo_FaLVVqpFQcDOtq45/exclamation_02.ogg",
-          "archivo": "voices/FaLVVqpFQcDOtq45.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/male/6_guillermo_FaLVVqpFQcDOtq45/support_04.ogg",
+          "archivo": "voices/FaLVVqpFQcDOtq45.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Rebeca",
           "idioma": "es-MX",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/1_rebeca_Sx8m6WdXBG06zwZT/exclamation_02.ogg",
-          "archivo": "voices/Sx8m6WdXBG06zwZT.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/1_rebeca_Sx8m6WdXBG06zwZT/support_04.ogg",
+          "archivo": "voices/Sx8m6WdXBG06zwZT.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Regina",
           "idioma": "es-MX",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/2_regina_s58clrg2fe0MO7Y-/exclamation_02.ogg",
-          "archivo": "voices/s58clrg2fe0MO7Y-.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/56m/es/es-mx/female/2_regina_s58clrg2fe0MO7Y-/support_04.ogg",
+          "archivo": "voices/s58clrg2fe0MO7Y-.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Danae",
           "idioma": "es-MX",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/3_danae_evfxKSxpDIhmsNoq/exclamation_02.ogg",
-          "archivo": "voices/evfxKSxpDIhmsNoq.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/3_danae_evfxKSxpDIhmsNoq/support_04.ogg",
+          "archivo": "voices/evfxKSxpDIhmsNoq.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Azucena",
           "idioma": "es-MX",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/4_azucena_KJpIQlbYrZPA4aLq/exclamation_02.ogg",
-          "archivo": "voices/KJpIQlbYrZPA4aLq.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/4_azucena_KJpIQlbYrZPA4aLq/support_04.ogg",
+          "archivo": "voices/KJpIQlbYrZPA4aLq.safetensors",
+          "atributos": {
+            "edad": "Older Adult"
+          }
         },
         {
           "nombre": "Jimena",
           "idioma": "es-MX",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/5_jimena_qG5BXOJYrKEnXLIX/exclamation_02.ogg",
-          "archivo": "voices/qG5BXOJYrKEnXLIX.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/5_jimena_qG5BXOJYrKEnXLIX/support_04.ogg",
+          "archivo": "voices/qG5BXOJYrKEnXLIX.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Ximena",
           "idioma": "es-MX",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/6_ximena_VDwnGxAo68C8U8vC/exclamation_02.ogg",
-          "archivo": "voices/VDwnGxAo68C8U8vC.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/female/6_ximena_VDwnGxAo68C8U8vC/support_04.ogg",
+          "archivo": "voices/VDwnGxAo68C8U8vC.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Lalo",
           "idioma": "es-MX",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/1_lalo_F05gqkzX7WhKVpSL/exclamation_02.ogg",
-          "archivo": "voices/F05gqkzX7WhKVpSL.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/es/es-mx/male/1_lalo_F05gqkzX7WhKVpSL/support_04.ogg",
+          "archivo": "voices/F05gqkzX7WhKVpSL.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Aldo",
           "idioma": "es-MX",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/2_aldo_ax7dW1XB0eiMfHgO/exclamation_02.ogg",
-          "archivo": "voices/ax7dW1XB0eiMfHgO.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/2_aldo_ax7dW1XB0eiMfHgO/support_04.ogg",
+          "archivo": "voices/ax7dW1XB0eiMfHgO.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Yael",
           "idioma": "es-MX",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/3_yael_ALczEazoF4n6PmGl/exclamation_02.ogg",
-          "archivo": "voices/ALczEazoF4n6PmGl.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/3_yael_ALczEazoF4n6PmGl/support_04.ogg",
+          "archivo": "voices/ALczEazoF4n6PmGl.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Ulises",
           "idioma": "es-MX",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/4_ulises_G5HLUsQd659UtRe7/exclamation_02.ogg",
-          "archivo": "voices/G5HLUsQd659UtRe7.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/4_ulises_G5HLUsQd659UtRe7/support_04.ogg",
+          "archivo": "voices/G5HLUsQd659UtRe7.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Leonel",
           "idioma": "es-MX",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/5_leonel_BkuASiOJRrJEB5qA/exclamation_02.ogg",
-          "archivo": "voices/BkuASiOJRrJEB5qA.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/5_leonel_BkuASiOJRrJEB5qA/support_04.ogg",
+          "archivo": "voices/BkuASiOJRrJEB5qA.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Nico",
           "idioma": "es-MX",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/6_nico_PwgPEaweQILZdGc4/exclamation_02.ogg",
-          "archivo": "voices/PwgPEaweQILZdGc4.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-mx/male/6_nico_PwgPEaweQILZdGc4/support_04.ogg",
+          "archivo": "voices/PwgPEaweQILZdGc4.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Nerea",
           "idioma": "es-ES",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/7_nerea_EQcQFGkYfMn5YJgx/exclamation_02.ogg",
-          "archivo": "voices/EQcQFGkYfMn5YJgx.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/es/es-es/female/7_nerea_EQcQFGkYfMn5YJgx/support_04.ogg",
+          "archivo": "voices/EQcQFGkYfMn5YJgx.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         }
       ],
       "archivos": [
@@ -894,7 +1044,7 @@
       "nombre": "Phonon portugués",
       "idioma": "pt-BR",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC BY-NC 4.0",
       "licencia_url": "https://huggingface.co/gradium/phonon-40m-pt",
       "origen": "Gradium, gradium/phonon-40m-pt",
@@ -903,85 +1053,121 @@
           "nombre": "Manuela-Lu",
           "idioma": "pt-BR",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/1_manuela_lu_KgC2Nqnjj48NUiyV/exclamation_02.ogg",
-          "archivo": "voices/KgC2Nqnjj48NUiyV.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/pt/pt-br/female/1_manuela_lu_KgC2Nqnjj48NUiyV/support_04.ogg",
+          "archivo": "voices/KgC2Nqnjj48NUiyV.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Isadora",
           "idioma": "pt-BR",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/2_isadora_CtNvKUUMrx1h56ih/exclamation_02.ogg",
-          "archivo": "voices/CtNvKUUMrx1h56ih.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/2_isadora_CtNvKUUMrx1h56ih/support_04.ogg",
+          "archivo": "voices/CtNvKUUMrx1h56ih.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Débora",
           "idioma": "pt-BR",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/3_debora_K8mj96kYHMy8q3Hb/exclamation_02.ogg",
-          "archivo": "voices/K8mj96kYHMy8q3Hb.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/3_debora_K8mj96kYHMy8q3Hb/support_04.ogg",
+          "archivo": "voices/K8mj96kYHMy8q3Hb.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Rafaela",
           "idioma": "pt-BR",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/4_rafaela_6k6cRt7QJfm5ChrH/exclamation_02.ogg",
-          "archivo": "voices/6k6cRt7QJfm5ChrH.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/4_rafaela_6k6cRt7QJfm5ChrH/support_04.ogg",
+          "archivo": "voices/6k6cRt7QJfm5ChrH.safetensors",
+          "atributos": {
+            "edad": "Young"
+          }
         },
         {
           "nombre": "Clarice",
           "idioma": "pt-BR",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/5_clarice_sGCMzFIA53ppIngM/exclamation_02.ogg",
-          "archivo": "voices/sGCMzFIA53ppIngM.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/56m/pt/pt-br/female/5_clarice_sGCMzFIA53ppIngM/support_04.ogg",
+          "archivo": "voices/sGCMzFIA53ppIngM.safetensors",
+          "atributos": {
+            "edad": "Older Adult"
+          }
         },
         {
           "nombre": "Flávia",
           "idioma": "pt-BR",
           "genero": "female",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/female/6_flavia_gOc90Rjmv5CobHCj/exclamation_02.ogg",
-          "archivo": "voices/gOc90Rjmv5CobHCj.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/40m/pt/pt-br/female/6_flavia_gOc90Rjmv5CobHCj/support_04.ogg",
+          "archivo": "voices/gOc90Rjmv5CobHCj.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Davi",
           "idioma": "pt-BR",
           "genero": "male",
           "muestra": null,
-          "archivo": "voices/NuUr_x5V90hSHzCJ.safetensors"
+          "archivo": "voices/NuUr_x5V90hSHzCJ.safetensors",
+          "atributos": {
+            "edad": "Adult"
+          }
         },
         {
           "nombre": "Igor",
           "idioma": "pt-BR",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/2_igor_l7520SIXi14iEamd/exclamation_02.ogg",
-          "archivo": "voices/l7520SIXi14iEamd.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/2_igor_l7520SIXi14iEamd/support_04.ogg",
+          "archivo": "voices/l7520SIXi14iEamd.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Kauã",
           "idioma": "pt-BR",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/3_kaua_6HftnVU1XqVBJS8t/exclamation_02.ogg",
-          "archivo": "voices/6HftnVU1XqVBJS8t.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/56m/pt/pt-br/male/3_kaua_6HftnVU1XqVBJS8t/support_04.ogg",
+          "archivo": "voices/6HftnVU1XqVBJS8t.safetensors",
+          "atributos": {
+            "edad": "Young Adult"
+          }
         },
         {
           "nombre": "Vitor",
           "idioma": "pt-BR",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/4_vitor_mWgyMRkFED70QxQv/exclamation_02.ogg",
-          "archivo": "voices/mWgyMRkFED70QxQv.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/98m/pt/pt-br/male/4_vitor_mWgyMRkFED70QxQv/support_04.ogg",
+          "archivo": "voices/mWgyMRkFED70QxQv.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         },
         {
           "nombre": "Otávio",
           "idioma": "pt-BR",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/5_otavio_JYtmeaysoaR0Wybf/exclamation_02.ogg",
-          "archivo": "voices/JYtmeaysoaR0Wybf.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/5_otavio_JYtmeaysoaR0Wybf/support_04.ogg",
+          "archivo": "voices/JYtmeaysoaR0Wybf.safetensors",
+          "atributos": {
+            "edad": "Older Adult"
+          }
         },
         {
           "nombre": "Marcelo",
           "idioma": "pt-BR",
           "genero": "male",
-          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/6_marcelo_qDeAnE4L4bk0BRz1/exclamation_02.ogg",
-          "archivo": "voices/qDeAnE4L4bk0BRz1.safetensors"
+          "muestra": "https://huggingface.co/gradium/phonon-voices/resolve/0ee17205f254b5abc43b266c8a0f215565c352f7/samples/31m/pt/pt-br/male/6_marcelo_qDeAnE4L4bk0BRz1/support_04.ogg",
+          "archivo": "voices/qDeAnE4L4bk0BRz1.safetensors",
+          "atributos": {
+            "edad": "Middle-age"
+          }
         }
       ],
       "archivos": [
@@ -1084,23 +1270,65 @@
       ]
     },
     {
+      "id": "piper-en-gb-alan-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Alan",
+      "idioma": "en-GB",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "See URL",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/alan/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_GB-alan-medium",
+      "voces": [
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/alan/medium/speaker_0.mp3",
+          "archivo": "en_GB-alan-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Alan",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/alan/medium/en_GB-alan-medium.onnx",
+          "bytes": 63201294,
+          "sha256": "0a309668932205e762801f1efc2736cd4b0120329622adf62be09e56339d3330",
+          "ruta": "en/en_GB/alan/medium/en_GB-alan-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/alan/medium/en_GB-alan-medium.onnx.json",
+          "bytes": 4888,
+          "sha256": "c0f0d124e5895c00e7c03b35dcc8287f319a6998a365b182deb5c8e752ee8c1e",
+          "ruta": "en/en_GB/alan/medium/en_GB-alan-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
       "id": "piper-en-gb-alba-medium",
       "tipo": "voz",
       "proveedor": "piper",
       "nombre": "Piper Alba",
       "idioma": "en-GB",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "https://creativecommons.org/licenses/by/4.0/",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/alba/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_GB-alba-medium",
       "voces": [
         {
-          "nombre": "Alba",
           "idioma": "en-GB",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/alba/medium/speaker_0.mp3",
-          "archivo": "en_GB-alba-medium.onnx"
+          "archivo": "en_GB-alba-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Alba",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1116,7 +1344,169 @@
           "sha256": "6214603a0dd60e9dcd05502e23ef07fbe3d9af36d3189c8cc3eb129e1a099d6f",
           "ruta": "en/en_GB/alba/medium/en_GB-alba-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-en-gb-aru-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Aru",
+      "idioma": "en-GB",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "https://creativecommons.org/licenses/by/4.0/",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/aru/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_GB-aru-medium",
+      "voces": [
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 03",
+          "genero": null,
+          "hablante": 0
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 06",
+          "genero": null,
+          "hablante": 1
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 10",
+          "genero": null,
+          "hablante": 2
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 01",
+          "genero": null,
+          "hablante": 3
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 09",
+          "genero": null,
+          "hablante": 4
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 08",
+          "genero": null,
+          "hablante": 5
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 11",
+          "genero": null,
+          "hablante": 6
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 05",
+          "genero": null,
+          "hablante": 7
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 12",
+          "genero": null,
+          "hablante": 8
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 02",
+          "genero": null,
+          "hablante": 9
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 07",
+          "genero": null,
+          "hablante": 10
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/aru/medium/speaker_0.mp3",
+          "archivo": "en_GB-aru-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Aru 04",
+          "genero": null,
+          "hablante": 11
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/aru/medium/en_GB-aru-medium.onnx",
+          "bytes": 76754097,
+          "sha256": "9e74d089a8563f8b2446426d01becb046cd3c3bfbafe1a20fd03a9a79bd82619",
+          "ruta": "en/en_GB/aru/medium/en_GB-aru-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/aru/medium/en_GB-aru-medium.onnx.json",
+          "bytes": 5048,
+          "sha256": "00529fabf0e79f29a9cb10fda5b60f9b7cf80671faac2b316e13af20e7816d5e",
+          "ruta": "en/en_GB/aru/medium/en_GB-aru-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
     },
     {
       "id": "piper-en-gb-cori-high",
@@ -1125,17 +1515,20 @@
       "nombre": "Piper Cori",
       "idioma": "en-GB",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "public domain",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/cori/high/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_GB-cori-high",
       "voces": [
         {
-          "nombre": "Cori",
           "idioma": "en-GB",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/cori/high/speaker_0.mp3",
-          "archivo": "en_GB-cori-high.onnx"
+          "archivo": "en_GB-cori-high.onnx",
+          "atributos": {
+            "calidad": "high"
+          },
+          "nombre": "Cori",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1151,7 +1544,8 @@
           "sha256": "9e7fb5b5671612c22f3c81cbe46c1ae87b031a4632bcb509e499dad6f1e2adec",
           "ruta": "en/en_GB/cori/high/en_GB-cori-high.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-en-gb-jenny-dioco-medium",
@@ -1160,17 +1554,20 @@
       "nombre": "Piper Jenny (Dioco)",
       "idioma": "en-GB",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "Licencia propia de Dioco: uso comercial permitido, citando la voz como Jenny (Dioco)",
       "licencia_url": "https://github.com/dioco-group/jenny-tts-dataset",
       "origen": "Piper, rhasspy/piper-voices, en_GB-jenny_dioco-medium",
       "voces": [
         {
-          "nombre": "Jenny (Dioco)",
           "idioma": "en-GB",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/jenny_dioco/medium/speaker_0.mp3",
-          "archivo": "en_GB-jenny_dioco-medium.onnx"
+          "archivo": "en_GB-jenny_dioco-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Jenny (Dioco)",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1186,7 +1583,464 @@
           "sha256": "e489b3990e455d6378f12dbb4afa11e8e692a0168f1ed8e5c285dd2f08547567",
           "ruta": "en/en_GB/jenny_dioco/medium/en_GB-jenny_dioco-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-en-gb-northern-english-male-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Northern English Male",
+      "idioma": "en-GB",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC-BY-SA 4.0 International",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/northern_english_male/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_GB-northern_english_male-medium",
+      "voces": [
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/northern_english_male/medium/speaker_0.mp3",
+          "archivo": "en_GB-northern_english_male-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Northern English Male",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/northern_english_male/medium/en_GB-northern_english_male-medium.onnx",
+          "bytes": 63201294,
+          "sha256": "57a219ae8e638873db7d18893304be5069c42868f392bb95c3ff17f0690d0689",
+          "ruta": "en/en_GB/northern_english_male/medium/en_GB-northern_english_male-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/northern_english_male/medium/en_GB-northern_english_male-medium.onnx.json",
+          "bytes": 4847,
+          "sha256": "69557ed3d974463453e9b0c09dd99a7ed0e52b8b87b64b357dbeeb2540a97d47",
+          "ruta": "en/en_GB/northern_english_male/medium/en_GB-northern_english_male-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
+      "id": "piper-en-gb-semaine-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Semaine",
+      "idioma": "en-GB",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/semaine/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_GB-semaine-medium",
+      "voces": [
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/semaine/medium/speaker_0.mp3",
+          "archivo": "en_GB-semaine-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Semaine prudence",
+          "genero": null,
+          "hablante": 0
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/semaine/medium/speaker_0.mp3",
+          "archivo": "en_GB-semaine-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Semaine spike",
+          "genero": null,
+          "hablante": 1
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/semaine/medium/speaker_0.mp3",
+          "archivo": "en_GB-semaine-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Semaine obadiah",
+          "genero": null,
+          "hablante": 2
+        },
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/semaine/medium/speaker_0.mp3",
+          "archivo": "en_GB-semaine-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Semaine poppy",
+          "genero": null,
+          "hablante": 3
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/semaine/medium/en_GB-semaine-medium.onnx",
+          "bytes": 76737711,
+          "sha256": "d6dab6f3b92db43ea3f78c7f20dc8eadb47a1f15d8a1c9d451cf3ccd201a2f66",
+          "ruta": "en/en_GB/semaine/medium/en_GB-semaine-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/semaine/medium/en_GB-semaine-medium.onnx.json",
+          "bytes": 5076,
+          "sha256": "6425dcb878684043b77d772b173ae006d86a583b110303edda48b8438ecee5ee",
+          "ruta": "en/en_GB/semaine/medium/en_GB-semaine-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
+      "id": "piper-en-gb-southern-english-female-low",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Southern English Female",
+      "idioma": "en-GB",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC-BY-SA 4.0 International",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/southern_english_female/low/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_GB-southern_english_female-low",
+      "voces": [
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/southern_english_female/low/speaker_0.mp3",
+          "archivo": "en_GB-southern_english_female-low.onnx",
+          "atributos": {
+            "calidad": "low"
+          },
+          "nombre": "Southern English Female",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/southern_english_female/low/en_GB-southern_english_female-low.onnx",
+          "bytes": 63104526,
+          "sha256": "f2f37aed1b3a093476f719d1379ba0c0b1b1cf6f1ef99288e2ebf502971a07c3",
+          "ruta": "en/en_GB/southern_english_female/low/en_GB-southern_english_female-low.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/southern_english_female/low/en_GB-southern_english_female-low.onnx.json",
+          "bytes": 4189,
+          "sha256": "a1af43310f8756161506e849a2863d342a98b0853af9e2437581d39e9922d0e5",
+          "ruta": "en/en_GB/southern_english_female/low/en_GB-southern_english_female-low.onnx.json"
+        }
+      ],
+      "uso": "no_comercial"
+    },
+    {
+      "id": "piper-en-gb-vctk-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Vctk",
+      "idioma": "en-GB",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "https://creativecommons.org/licenses/by/4.0/",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/vctk/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_GB-vctk-medium",
+      "voces": [
+        {
+          "idioma": "en-GB",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_GB/vctk/medium/speaker_0.mp3",
+          "archivo": "en_GB-vctk-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Vctk",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/vctk/medium/en_GB-vctk-medium.onnx",
+          "bytes": 76952753,
+          "sha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
+          "ruta": "en/en_GB/vctk/medium/en_GB-vctk-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_GB/vctk/medium/en_GB-vctk-medium.onnx.json",
+          "bytes": 6637,
+          "sha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
+          "ruta": "en/en_GB/vctk/medium/en_GB-vctk-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
+      "id": "piper-en-us-amy-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Amy",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "See URL",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/amy/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-amy-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/amy/medium/speaker_0.mp3",
+          "archivo": "en_US-amy-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Amy",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/amy/medium/en_US-amy-medium.onnx",
+          "bytes": 63221984,
+          "sha256": "cf9ccdec59f05adee47173f6fb4d89e8b0c5f30c178748d2572fe4efd1d2724c",
+          "ruta": "en/en_US/amy/medium/en_US-amy-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/amy/medium/en_US-amy-medium.onnx.json",
+          "bytes": 5465,
+          "sha256": "8c9b8aa3ee122c6a63678bd68e586a067c6775116d32e13b7ec919520d8948bf",
+          "ruta": "en/en_US/amy/medium/en_US-amy-medium.onnx.json"
+        }
+      ],
+      "uso": "sin_confirmar"
+    },
+    {
+      "id": "piper-en-us-arctic-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Arctic",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "See LICENSE file",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/arctic/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-arctic-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic awb",
+          "genero": null,
+          "hablante": 0
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic rms",
+          "genero": null,
+          "hablante": 1
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic slt",
+          "genero": null,
+          "hablante": 2
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic ksp",
+          "genero": null,
+          "hablante": 3
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic clb",
+          "genero": null,
+          "hablante": 4
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic lnh",
+          "genero": null,
+          "hablante": 5
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic aew",
+          "genero": null,
+          "hablante": 6
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic bdl",
+          "genero": null,
+          "hablante": 7
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic jmk",
+          "genero": null,
+          "hablante": 8
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic rxr",
+          "genero": null,
+          "hablante": 9
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic fem",
+          "genero": null,
+          "hablante": 10
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic ljm",
+          "genero": null,
+          "hablante": 11
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic slp",
+          "genero": null,
+          "hablante": 12
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic aup",
+          "genero": null,
+          "hablante": 13
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic ahw",
+          "genero": null,
+          "hablante": 14
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic axb",
+          "genero": null,
+          "hablante": 15
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic eey",
+          "genero": null,
+          "hablante": 16
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Arctic gka",
+          "genero": null,
+          "hablante": 17
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/arctic/medium/en_US-arctic-medium.onnx",
+          "bytes": 76766385,
+          "sha256": "483303e294947a3ec2f910ea96093d876e1640f5772e9d89e511d6c82c667286",
+          "ruta": "en/en_US/arctic/medium/en_US-arctic-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/arctic/medium/en_US-arctic-medium.onnx.json",
+          "bytes": 5148,
+          "sha256": "db2ca1a55db01cdd3ce28ae63037ac525133e9e00ca557430dec572643235efe",
+          "ruta": "en/en_US/arctic/medium/en_US-arctic-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
     },
     {
       "id": "piper-en-us-bryce-medium",
@@ -1195,17 +2049,20 @@
       "nombre": "Piper Bryce",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "public domain",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/bryce/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-bryce-medium",
       "voces": [
         {
-          "nombre": "Bryce",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/bryce/medium/speaker_0.mp3",
-          "archivo": "en_US-bryce-medium.onnx"
+          "archivo": "en_US-bryce-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Bryce",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1221,7 +2078,125 @@
           "sha256": "7ceb1bc4af6d4e41b6d1edbb86c67e91e01eaa71f66db4cd0ae92ac704d415be",
           "ruta": "en/en_US/bryce/medium/en_US-bryce-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-en-us-danny-low",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Danny",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "See URL",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/danny/low/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-danny-low",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/danny/low/speaker_0.mp3",
+          "archivo": "en_US-danny-low.onnx",
+          "atributos": {
+            "calidad": "low"
+          },
+          "nombre": "Danny",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/danny/low/en_US-danny-low.onnx",
+          "bytes": 63104526,
+          "sha256": "56a9ae9499e961514f060aac2866cb323a21e5989592fc4f208e56fdc323ab64",
+          "ruta": "en/en_US/danny/low/en_US-danny-low.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/danny/low/en_US-danny-low.onnx.json",
+          "bytes": 4166,
+          "sha256": "191dea1ba9863199d8ca2e9048f83b219219fb450f62767ee02f1bc4568ce4f4",
+          "ruta": "en/en_US/danny/low/en_US-danny-low.onnx.json"
+        }
+      ],
+      "uso": "no_comercial"
+    },
+    {
+      "id": "piper-en-us-hfc-female-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Hfc Female",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hfc_female/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-hfc_female-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/hfc_female/medium/speaker_0.mp3",
+          "archivo": "en_US-hfc_female-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Hfc Female",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hfc_female/medium/en_US-hfc_female-medium.onnx",
+          "bytes": 63221984,
+          "sha256": "5b3d6e36a33a1eb0e50b54900c229127e3059400885eb5e8f128ff04b31cd73c",
+          "ruta": "en/en_US/hfc_female/medium/en_US-hfc_female-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hfc_female/medium/en_US-hfc_female-medium.onnx.json",
+          "bytes": 5472,
+          "sha256": "b87a53db0f6b15c0d00e960efc0546f8cf57e103e6ccba7bc41b33beb4572556",
+          "ruta": "en/en_US/hfc_female/medium/en_US-hfc_female-medium.onnx.json"
+        }
+      ],
+      "uso": "no_comercial"
+    },
+    {
+      "id": "piper-en-us-hfc-male-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Hfc Male",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hfc_male/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-hfc_male-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/hfc_male/medium/speaker_0.mp3",
+          "archivo": "en_US-hfc_male-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Hfc Male",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hfc_male/medium/en_US-hfc_male-medium.onnx",
+          "bytes": 63201294,
+          "sha256": "d11e403a02bdf5a670c877b3dc56e0e1c8cece6fb30289586314dffdc0a78cb0",
+          "ruta": "en/en_US/hfc_male/medium/en_US-hfc_male-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hfc_male/medium/en_US-hfc_male-medium.onnx.json",
+          "bytes": 5033,
+          "sha256": "f66847424aed0bf99ecbb5d7cfde47c0a906f426a0daf7c46f305e7d21afd886",
+          "ruta": "en/en_US/hfc_male/medium/en_US-hfc_male-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
     },
     {
       "id": "piper-en-us-hifi-tts-92-medium",
@@ -1230,17 +2205,20 @@
       "nombre": "Piper Hifi Tts 92",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC BY 4.0 (Hi-Fi Multi-Speaker English TTS Dataset, NVIDIA Corporation)",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/hifi_tts_92/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-hifi_tts_92-medium",
       "voces": [
         {
-          "nombre": "Hifi Tts 92",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/hifi_tts_92/medium/speaker_0.mp3",
-          "archivo": "en_US-hifi_tts_92-medium.onnx"
+          "archivo": "en_US-hifi_tts_92-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Hifi Tts 92",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1256,7 +2234,8 @@
           "sha256": "b21f81aea9870e24198645738bd5b95591982ceece2d240fb8eddc59ed50d73f",
           "ruta": "en/en_US/hifi_tts_92/medium/en_US-hifi_tts_92-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "investigacion"
     },
     {
       "id": "piper-en-us-joe-medium",
@@ -1265,17 +2244,20 @@
       "nombre": "Piper Joe",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/joe/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-joe-medium",
       "voces": [
         {
-          "nombre": "Joe",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/joe/medium/speaker_0.mp3",
-          "archivo": "en_US-joe-medium.onnx"
+          "archivo": "en_US-joe-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Joe",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1291,7 +2273,8 @@
           "sha256": "7b5f0293c0bf5bda8e377be1696da84af798befeef31038e43beefc01fe858da",
           "ruta": "en/en_US/joe/medium/en_US-joe-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-en-us-john-medium",
@@ -1300,17 +2283,20 @@
       "nombre": "Piper John",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "public domain",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/john/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-john-medium",
       "voces": [
         {
-          "nombre": "John",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/john/medium/speaker_0.mp3",
-          "archivo": "en_US-john-medium.onnx"
+          "archivo": "en_US-john-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "John",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1326,7 +2312,8 @@
           "sha256": "af60f177b6b550f3d7a302720c0fb89e7f94a82b5dca464775ef63b1c69ba09a",
           "ruta": "en/en_US/john/medium/en_US-john-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-en-us-kathleen-medium",
@@ -1335,17 +2322,20 @@
       "nombre": "Piper Kathleen",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/kathleen/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-kathleen-medium",
       "voces": [
         {
-          "nombre": "Kathleen",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/kathleen/medium/speaker_0.mp3",
-          "archivo": "en_US-kathleen-medium.onnx"
+          "archivo": "en_US-kathleen-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Kathleen",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1361,7 +2351,8 @@
           "sha256": "912b873d778a72bdc09cc11352093d262d596a09fe91467fd818ff4c1c836231",
           "ruta": "en/en_US/kathleen/medium/en_US-kathleen-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-en-us-kristin-medium",
@@ -1370,17 +2361,20 @@
       "nombre": "Piper Kristin",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "public domain",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/kristin/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-kristin-medium",
       "voces": [
         {
-          "nombre": "Kristin",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/kristin/medium/speaker_0.mp3",
-          "archivo": "en_US-kristin-medium.onnx"
+          "archivo": "en_US-kristin-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Kristin",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1396,7 +2390,379 @@
           "sha256": "5681426d4aead22195de70531eeeeddb46493cfaffc5764b2ea3db73428b651c",
           "ruta": "en/en_US/kristin/medium/en_US-kristin-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-en-us-kusal-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Kusal",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "See URL",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/kusal/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-kusal-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/kusal/medium/speaker_0.mp3",
+          "archivo": "en_US-kusal-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Kusal",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/kusal/medium/en_US-kusal-medium.onnx",
+          "bytes": 63201294,
+          "sha256": "438ae25bb305b2a7f6d632327d6102df25011f793e8222fa9db876e7321df8f3",
+          "ruta": "en/en_US/kusal/medium/en_US-kusal-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/kusal/medium/en_US-kusal-medium.onnx.json",
+          "bytes": 4884,
+          "sha256": "ddd3c4dfd8b4f568150c934fb94912dd788d44db87f4f0a328c469d7a6761f41",
+          "ruta": "en/en_US/kusal/medium/en_US-kusal-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
+      "id": "piper-en-us-l2arctic-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper L2Arctic",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/l2arctic/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-l2arctic-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic TXHC",
+          "genero": null,
+          "hablante": 0
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic THV",
+          "genero": null,
+          "hablante": 1
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic SVBI",
+          "genero": null,
+          "hablante": 2
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic ZHAA",
+          "genero": null,
+          "hablante": 3
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic PNV",
+          "genero": null,
+          "hablante": 4
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic TLV",
+          "genero": null,
+          "hablante": 5
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic ERMS",
+          "genero": null,
+          "hablante": 6
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic MBMPS",
+          "genero": null,
+          "hablante": 7
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic HQTV",
+          "genero": null,
+          "hablante": 8
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic TNI",
+          "genero": null,
+          "hablante": 9
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic ASI",
+          "genero": null,
+          "hablante": 10
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic HJK",
+          "genero": null,
+          "hablante": 11
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic LXC",
+          "genero": null,
+          "hablante": 12
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic NCC",
+          "genero": null,
+          "hablante": 13
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic YKWK",
+          "genero": null,
+          "hablante": 14
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic YDCK",
+          "genero": null,
+          "hablante": 15
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic HKK",
+          "genero": null,
+          "hablante": 16
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic NJS",
+          "genero": null,
+          "hablante": 17
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic YBAA",
+          "genero": null,
+          "hablante": 18
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic RRBI",
+          "genero": null,
+          "hablante": 19
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic BWC",
+          "genero": null,
+          "hablante": 20
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic ABA",
+          "genero": null,
+          "hablante": 21
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic EBVS",
+          "genero": null,
+          "hablante": 22
+        },
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/l2arctic/medium/speaker_0.mp3",
+          "archivo": "en_US-l2arctic-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "L2Arctic SKA",
+          "genero": null,
+          "hablante": 23
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/l2arctic/medium/en_US-l2arctic-medium.onnx",
+          "bytes": 76778673,
+          "sha256": "d89f6f124bf1e7735b2179d2141b8001c3e19169d5e743ed6e35624f4c76f044",
+          "ruta": "en/en_US/l2arctic/medium/en_US-l2arctic-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/l2arctic/medium/en_US-l2arctic-medium.onnx.json",
+          "bytes": 5252,
+          "sha256": "a97e2ba653e9efcdc1bdcec64a398c8beb19ae5e8dfdbfe4ad6841983e56c07c",
+          "ruta": "en/en_US/l2arctic/medium/en_US-l2arctic-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
+      "id": "piper-en-us-lessac-high",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Lessac",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/lessac/high/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-lessac-high",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/lessac/high/speaker_0.mp3",
+          "archivo": "en_US-lessac-high.onnx",
+          "atributos": {
+            "calidad": "high"
+          },
+          "nombre": "Lessac",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/lessac/high/en_US-lessac-high.onnx",
+          "bytes": 113895201,
+          "sha256": "4cabf7c3a638017137f34a1516522032d4fe3f38228a843cc9b764ddcbcd9e09",
+          "ruta": "en/en_US/lessac/high/en_US-lessac-high.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/lessac/high/en_US-lessac-high.onnx.json",
+          "bytes": 4883,
+          "sha256": "db42b97d9859f257bc1561b8ed980e7fb2398402050a74ddd6cbec931a92412f",
+          "ruta": "en/en_US/lessac/high/en_US-lessac-high.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
     },
     {
       "id": "piper-en-us-libritts-high",
@@ -1405,17 +2771,20 @@
       "nombre": "Piper Libritts",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC BY 4.0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/libritts/high/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-libritts-high",
       "voces": [
         {
-          "nombre": "Libritts",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/libritts/high/speaker_0.mp3",
-          "archivo": "en_US-libritts-high.onnx"
+          "archivo": "en_US-libritts-high.onnx",
+          "atributos": {
+            "calidad": "high"
+          },
+          "nombre": "Libritts",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1431,7 +2800,47 @@
           "sha256": "2efdc6d7f954588b8180132cbd9b8001933fdd00932c92bc92fd0d2028a9eb3d",
           "ruta": "en/en_US/libritts/high/en_US-libritts-high.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-en-us-libritts-r-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Libritts R",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC BY 4.0",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/libritts_r/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-libritts_r-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/libritts_r/medium/speaker_0.mp3",
+          "archivo": "en_US-libritts_r-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Libritts R",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/libritts_r/medium/en_US-libritts_r-medium.onnx",
+          "bytes": 78580914,
+          "sha256": "10bb85e071d616fcf4071f369f1799d0491492ab3c5d552ec19fb548fac13195",
+          "ruta": "en/en_US/libritts_r/medium/en_US-libritts_r-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/libritts_r/medium/en_US-libritts_r-medium.onnx.json",
+          "bytes": 20123,
+          "sha256": "b471dc60d2d8335e819c393d196d6fbf792817f40051257b269878505bc9afb3",
+          "ruta": "en/en_US/libritts_r/medium/en_US-libritts_r-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
     },
     {
       "id": "piper-en-us-ljspeech-high",
@@ -1440,17 +2849,20 @@
       "nombre": "Piper Ljspeech",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "public domain",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/ljspeech/high/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-ljspeech-high",
       "voces": [
         {
-          "nombre": "Ljspeech",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/ljspeech/high/speaker_0.mp3",
-          "archivo": "en_US-ljspeech-high.onnx"
+          "archivo": "en_US-ljspeech-high.onnx",
+          "atributos": {
+            "calidad": "high"
+          },
+          "nombre": "Ljspeech",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1466,7 +2878,8 @@
           "sha256": "7e1f4634af596d83cca997fb7a931ba80b70f8a316a2655ee69c55365e0ace14",
           "ruta": "en/en_US/ljspeech/high/en_US-ljspeech-high.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-en-us-mike-medium",
@@ -1475,17 +2888,20 @@
       "nombre": "Piper Mike",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/mike/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-mike-medium",
       "voces": [
         {
-          "nombre": "Mike",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/mike/medium/speaker_0.mp3",
-          "archivo": "en_US-mike-medium.onnx"
+          "archivo": "en_US-mike-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Mike",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1501,7 +2917,8 @@
           "sha256": "57893c9e492cc6650e2a91e26ec7aa3bf23c267c080649f7cfb6aa1843fcd6ed",
           "ruta": "en/en_US/mike/medium/en_US-mike-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-en-us-norman-medium",
@@ -1510,17 +2927,20 @@
       "nombre": "Piper Norman",
       "idioma": "en-US",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "public domain",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/norman/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, en_US-norman-medium",
       "voces": [
         {
-          "nombre": "Norman",
           "idioma": "en-US",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/norman/medium/speaker_0.mp3",
-          "archivo": "en_US-norman-medium.onnx"
+          "archivo": "en_US-norman-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Norman",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1536,7 +2956,164 @@
           "sha256": "6c2db7f558a4a8deb9fe822583c1c5105f6c4e834dd0f9de8ad17a888ee9fe1d",
           "ruta": "en/en_US/norman/medium/en_US-norman-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-en-us-reza-ibrahim-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Reza Ibrahim",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC0",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/reza_ibrahim/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-reza_ibrahim-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/reza_ibrahim/medium/speaker_0.mp3",
+          "archivo": "en_US-reza_ibrahim-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Reza Ibrahim",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/reza_ibrahim/medium/en_US-reza_ibrahim-medium.onnx",
+          "bytes": 63511038,
+          "sha256": "99f0c31464a2120831ca87d079e10a9a2b3e426cc1ee662d80ff9042df15cd3c",
+          "ruta": "en/en_US/reza_ibrahim/medium/en_US-reza_ibrahim-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/reza_ibrahim/medium/en_US-reza_ibrahim-medium.onnx.json",
+          "bytes": 4976,
+          "sha256": "465ddf1702917fe617b7d69ed81301d6a2f39f083a754bd1cf6db8955d09a381",
+          "ruta": "en/en_US/reza_ibrahim/medium/en_US-reza_ibrahim-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
+      "id": "piper-en-us-ryan-high",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Ryan",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC BY-NC-SA 4.0",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/ryan/high/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-ryan-high",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/ryan/high/speaker_0.mp3",
+          "archivo": "en_US-ryan-high.onnx",
+          "atributos": {
+            "calidad": "high"
+          },
+          "nombre": "Ryan",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/ryan/high/en_US-ryan-high.onnx",
+          "bytes": 120786792,
+          "sha256": "b3990d7606e183ec8dbfba70a4607074f162de1a0c412e0180d1ff60bb154eca",
+          "ruta": "en/en_US/ryan/high/en_US-ryan-high.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/ryan/high/en_US-ryan-high.onnx.json",
+          "bytes": 4166,
+          "sha256": "c6d3b98f08315cb4bebf0d49d50fc4ff491b503c64b940cd3d5ca28543b48011",
+          "ruta": "en/en_US/ryan/high/en_US-ryan-high.onnx.json"
+        }
+      ],
+      "uso": "no_comercial"
+    },
+    {
+      "id": "piper-en-us-sam-medium",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Sam",
+      "idioma": "en-US",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/sam/medium/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, en_US-sam-medium",
+      "voces": [
+        {
+          "idioma": "en-US",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/en/en_US/sam/medium/speaker_0.mp3",
+          "archivo": "en_US-sam-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Sam",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/sam/medium/en_US-sam-medium.onnx",
+          "bytes": 62950044,
+          "sha256": "56417b3b4afe8ec6bb4cabf06e17d67261fdd5bf334592abcfc80052fba11163",
+          "ruta": "en/en_US/sam/medium/en_US-sam-medium.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/en/en_US/sam/medium/en_US-sam-medium.onnx.json",
+          "bytes": 5040,
+          "sha256": "8c7fb47f19683b0b81037c5564f9a5ad4699a9da685e0e5da0a72fd3c3f5c1c4",
+          "ruta": "en/en_US/sam/medium/en_US-sam-medium.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
+    },
+    {
+      "id": "piper-es-ar-daniela-high",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Daniela",
+      "idioma": "es-AR",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "Attribution-ShareAlike 4.0 International",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_AR/daniela/high/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, es_AR-daniela-high",
+      "voces": [
+        {
+          "idioma": "es-AR",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_AR/daniela/high/speaker_0.mp3",
+          "archivo": "es_AR-daniela-high.onnx",
+          "atributos": {
+            "calidad": "high"
+          },
+          "nombre": "Daniela",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_AR/daniela/high/es_AR-daniela-high.onnx",
+          "bytes": 114199011,
+          "sha256": "7ceb1fc0dab349418c5b54a639ae9ee595212d7c9ea422220d8419163d5cc985",
+          "ruta": "es/es_AR/daniela/high/es_AR-daniela-high.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_AR/daniela/high/es_AR-daniela-high.onnx.json",
+          "bytes": 7248,
+          "sha256": "aedbf69647e1d754c62ecf8e0366ca5f16af3e768e3c6b5329af6eb6bde3852b",
+          "ruta": "es/es_AR/daniela/high/es_AR-daniela-high.onnx.json"
+        }
+      ],
+      "uso": "investigacion"
     },
     {
       "id": "piper-es-es-carlfm-x-low",
@@ -1545,17 +3122,20 @@
       "nombre": "Piper Carlfm",
       "idioma": "es-ES",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "Public domain",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/carlfm/x_low/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, es_ES-carlfm-x_low",
       "voces": [
         {
-          "nombre": "Carlfm",
           "idioma": "es-ES",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_ES/carlfm/x_low/speaker_0.mp3",
-          "archivo": "es_ES-carlfm-x_low.onnx"
+          "archivo": "es_ES-carlfm-x_low.onnx",
+          "atributos": {
+            "calidad": "x_low"
+          },
+          "nombre": "Carlfm",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1571,7 +3151,8 @@
           "sha256": "d9bdfa9ff01eb2bc9e62e7d2593939d1e4c4d8eb7cf75f972731539d12399966",
           "ruta": "es/es_ES/carlfm/x_low/es_ES-carlfm-x_low.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-es-es-davefx-medium",
@@ -1580,17 +3161,20 @@
       "nombre": "Piper Davefx",
       "idioma": "es-ES",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/davefx/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, es_ES-davefx-medium",
       "voces": [
         {
-          "nombre": "Davefx",
           "idioma": "es-ES",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_ES/davefx/medium/speaker_0.mp3",
-          "archivo": "es_ES-davefx-medium.onnx"
+          "archivo": "es_ES-davefx-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Davefx",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1606,7 +3190,86 @@
           "sha256": "531c4051502e1acbc10b42437f11679bfce9e3919e1796e51fabd73e01e7fd2e",
           "ruta": "es/es_ES/davefx/medium/es_ES-davefx-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-es-es-mls-10246-low",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Mls 10246",
+      "idioma": "es-ES",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC BY 4.0",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/mls_10246/low/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, es_ES-mls_10246-low",
+      "voces": [
+        {
+          "idioma": "es-ES",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_ES/mls_10246/low/speaker_0.mp3",
+          "archivo": "es_ES-mls_10246-low.onnx",
+          "atributos": {
+            "calidad": "low"
+          },
+          "nombre": "Mls 10246",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/mls_10246/low/es_ES-mls_10246-low.onnx",
+          "bytes": 63104526,
+          "sha256": "3f9d76d2778778942297aab052aa7b2e67248d3f43614c889ee82901a230e197",
+          "ruta": "es/es_ES/mls_10246/low/es_ES-mls_10246-low.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/mls_10246/low/es_ES-mls_10246-low.onnx.json",
+          "bytes": 4160,
+          "sha256": "a865944d7f6972af347263b0b8152466dabba3b78b8fe5a6985f7d3b19fd06a1",
+          "ruta": "es/es_ES/mls_10246/low/es_ES-mls_10246-low.onnx.json"
+        }
+      ],
+      "uso": "no_comercial"
+    },
+    {
+      "id": "piper-es-es-mls-9972-low",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Mls 9972",
+      "idioma": "es-ES",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC BY 4.0",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/mls_9972/low/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, es_ES-mls_9972-low",
+      "voces": [
+        {
+          "idioma": "es-ES",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_ES/mls_9972/low/speaker_0.mp3",
+          "archivo": "es_ES-mls_9972-low.onnx",
+          "atributos": {
+            "calidad": "low"
+          },
+          "nombre": "Mls 9972",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/mls_9972/low/es_ES-mls_9972-low.onnx",
+          "bytes": 63104526,
+          "sha256": "afdd61beb26d3aba18245c0352a8173e7f96196fbe4979e115590e8f775c95f0",
+          "ruta": "es/es_ES/mls_9972/low/es_ES-mls_9972-low.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/mls_9972/low/es_ES-mls_9972-low.onnx.json",
+          "bytes": 4159,
+          "sha256": "32234a0701c480bb6ba62d4f05d0c03a95369f2133aa655370db1c00b2193340",
+          "ruta": "es/es_ES/mls_9972/low/es_ES-mls_9972-low.onnx.json"
+        }
+      ],
+      "uso": "no_comercial"
     },
     {
       "id": "piper-es-es-sharvard-medium",
@@ -1615,17 +3278,32 @@
       "nombre": "Piper Sharvard",
       "idioma": "es-ES",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "http://creativecommons.org/licenses/by/3.0/",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_ES/sharvard/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, es_ES-sharvard-medium",
       "voces": [
         {
-          "nombre": "Sharvard",
           "idioma": "es-ES",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_ES/sharvard/medium/speaker_0.mp3",
-          "archivo": "es_ES-sharvard-medium.onnx"
+          "archivo": "es_ES-sharvard-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Sharvard",
+          "genero": "male",
+          "hablante": 0
+        },
+        {
+          "idioma": "es-ES",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_ES/sharvard/medium/speaker_0.mp3",
+          "archivo": "es_ES-sharvard-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Sharvard",
+          "genero": "female",
+          "hablante": 1
         }
       ],
       "archivos": [
@@ -1641,7 +3319,8 @@
           "sha256": "1910940c6b480e0f7cbce5e0da45c8cbe2557ccbfd86a5d22cda141a3b65f521",
           "ruta": "es/es_ES/sharvard/medium/es_ES-sharvard-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-es-mx-ald-medium",
@@ -1650,17 +3329,20 @@
       "nombre": "Piper Ald",
       "idioma": "es-MX",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "http://unlicense.org",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_MX/ald/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, es_MX-ald-medium",
       "voces": [
         {
-          "nombre": "Ald",
           "idioma": "es-MX",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_MX/ald/medium/speaker_0.mp3",
-          "archivo": "es_MX-ald-medium.onnx"
+          "archivo": "es_MX-ald-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Ald",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1676,7 +3358,47 @@
           "sha256": "5a71498158e04afc8099bfd019c7e87c68eb9d042505a2b1a87e5c1ac2b1a61d",
           "ruta": "es/es_MX/ald/medium/es_MX-ald-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-es-mx-claude-high",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Claude",
+      "idioma": "es-MX",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "apache-2.0",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_MX/claude/high/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, es_MX-claude-high",
+      "voces": [
+        {
+          "idioma": "es-MX",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/es/es_MX/claude/high/speaker_0.mp3",
+          "archivo": "es_MX-claude-high.onnx",
+          "atributos": {
+            "calidad": "high"
+          },
+          "nombre": "Claude",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_MX/claude/high/es_MX-claude-high.onnx",
+          "bytes": 63122309,
+          "sha256": "3ef40a71ea63852cd8ab7e6fa7d2ecdcfa67a0b47c9c48e3f10e02ee02083ea0",
+          "ruta": "es/es_MX/claude/high/es_MX-claude-high.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/es/es_MX/claude/high/es_MX-claude-high.onnx.json",
+          "bytes": 4963,
+          "sha256": "1afc81f703c0e4cb3b4d7c0dca096b8b54a98806807f0170cf5eb5557723c12d",
+          "ruta": "es/es_MX/claude/high/es_MX-claude-high.onnx.json"
+        }
+      ],
+      "uso": "sin_confirmar"
     },
     {
       "id": "piper-pt-br-cadu-medium",
@@ -1685,17 +3407,20 @@
       "nombre": "Piper Cadu",
       "idioma": "pt-BR",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/cadu/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, pt_BR-cadu-medium",
       "voces": [
         {
-          "nombre": "Cadu",
           "idioma": "pt-BR",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/pt/pt_BR/cadu/medium/speaker_0.mp3",
-          "archivo": "pt_BR-cadu-medium.onnx"
+          "archivo": "pt_BR-cadu-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Cadu",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1711,7 +3436,47 @@
           "sha256": "9fa837b7c1237ea5978bcd7be38c130798e8faa064f754873bb4ce5fc498bd88",
           "ruta": "pt/pt_BR/cadu/medium/pt_BR-cadu-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
+    },
+    {
+      "id": "piper-pt-br-edresson-low",
+      "tipo": "voz",
+      "proveedor": "piper",
+      "nombre": "Piper Edresson",
+      "idioma": "pt-BR",
+      "version": 1,
+      "guyrapu_minima": "3.0.0-beta.6",
+      "licencia": "CC BY 4.0",
+      "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/edresson/low/MODEL_CARD",
+      "origen": "Piper, rhasspy/piper-voices, pt_BR-edresson-low",
+      "voces": [
+        {
+          "idioma": "pt-BR",
+          "muestra": "https://rhasspy.github.io/piper-samples/samples/pt/pt_BR/edresson/low/speaker_0.mp3",
+          "archivo": "pt_BR-edresson-low.onnx",
+          "atributos": {
+            "calidad": "low"
+          },
+          "nombre": "Edresson",
+          "genero": null
+        }
+      ],
+      "archivos": [
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/edresson/low/pt_BR-edresson-low.onnx",
+          "bytes": 63104526,
+          "sha256": "de4cecee38b30bb1a6378a337af605d59f0c377df702c6a6752870db8991cd84",
+          "ruta": "pt/pt_BR/edresson/low/pt_BR-edresson-low.onnx"
+        },
+        {
+          "url": "https://huggingface.co/rhasspy/piper-voices/resolve/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/edresson/low/pt_BR-edresson-low.onnx.json",
+          "bytes": 4168,
+          "sha256": "f138992d2e777d1e3aa0bbb14c2d324307b0f342c1bcf20978765b3bea506c56",
+          "ruta": "pt/pt_BR/edresson/low/pt_BR-edresson-low.onnx.json"
+        }
+      ],
+      "uso": "no_comercial"
     },
     {
       "id": "piper-pt-br-faber-medium",
@@ -1720,17 +3485,20 @@
       "nombre": "Piper Faber",
       "idioma": "pt-BR",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/faber/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, pt_BR-faber-medium",
       "voces": [
         {
-          "nombre": "Faber",
           "idioma": "pt-BR",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/pt/pt_BR/faber/medium/speaker_0.mp3",
-          "archivo": "pt_BR-faber-medium.onnx"
+          "archivo": "pt_BR-faber-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Faber",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1746,7 +3514,8 @@
           "sha256": "fa8a8fecb01ae198bc416381e368d3206f85bad1449a0f11e1f6a9edf85a32f1",
           "ruta": "pt/pt_BR/faber/medium/pt_BR-faber-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-pt-br-jeff-medium",
@@ -1755,17 +3524,20 @@
       "nombre": "Piper Jeff",
       "idioma": "pt-BR",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_BR/jeff/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, pt_BR-jeff-medium",
       "voces": [
         {
-          "nombre": "Jeff",
           "idioma": "pt-BR",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/pt/pt_BR/jeff/medium/speaker_0.mp3",
-          "archivo": "pt_BR-jeff-medium.onnx"
+          "archivo": "pt_BR-jeff-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Jeff",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1781,7 +3553,8 @@
           "sha256": "078ea4e42a680ca3cb662a8929237c32e2c0d581f5363f2f55f09bc266497bf6",
           "ruta": "pt/pt_BR/jeff/medium/pt_BR-jeff-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     },
     {
       "id": "piper-pt-pt-tug-o-medium",
@@ -1790,17 +3563,20 @@
       "nombre": "Piper Tugão",
       "idioma": "pt-PT",
       "version": 1,
-      "guyrapu_minima": "3.0.0-beta.5",
+      "guyrapu_minima": "3.0.0-beta.6",
       "licencia": "CC0",
       "licencia_url": "https://huggingface.co/rhasspy/piper-voices/blob/6b9cfaacb4fb2e02a9621227e3c1a48bec9710c3/pt/pt_PT/tugão/medium/MODEL_CARD",
       "origen": "Piper, rhasspy/piper-voices, pt_PT-tugão-medium",
       "voces": [
         {
-          "nombre": "Tugão",
           "idioma": "pt-PT",
-          "genero": null,
           "muestra": "https://rhasspy.github.io/piper-samples/samples/pt/pt_PT/tug%C3%A3o/medium/speaker_0.mp3",
-          "archivo": "pt_PT-tugão-medium.onnx"
+          "archivo": "pt_PT-tugão-medium.onnx",
+          "atributos": {
+            "calidad": "medium"
+          },
+          "nombre": "Tugão",
+          "genero": null
         }
       ],
       "archivos": [
@@ -1816,7 +3592,8 @@
           "sha256": "bfb193603c4f1454284bd1074060b0dd525f93b9d3e35bcffc1458ae7d48786e",
           "ruta": "pt/pt_PT/tugão/medium/pt_PT-tugão-medium.onnx.json"
         }
-      ]
+      ],
+      "uso": "libre"
     }
   ]
 }
